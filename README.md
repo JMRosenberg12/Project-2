@@ -5,4 +5,4 @@ Installation: You need to install sequelize, express and express-handlebars, mys
 
 Credit: The project was created by Kevin, Yong, Sergio and Jacob. The tasks were: Kevin created backend, Yong made the calls to GET, DELETE and POST.  Sergio created the front end and Jacob made style changes as well as powerpoint. 
 https://spiderfly.herokuapp.com/
-![Alt text](Screen Shot 2020-06-10 at 9.05.06 AM.png)
+![Alt text](Screen Shot 2020-06-10 at 9.05.06 AM.png "Screen Shot")
